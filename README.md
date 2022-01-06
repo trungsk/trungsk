@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @trungsk
 - 👀 I’m interested in programming and table-tennis
-- 🌱 I’m currently learning Java Web programming and C/C++, I love AI as well
+- 🌱 I’m currently learning Java Web programming and Python
 - 💞️ I’m looking to collaborate with good friends
 - 📫 How to reach me https://www.facebook.com/thanhtrung.8324/
 
